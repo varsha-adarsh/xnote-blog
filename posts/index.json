@@ -1,5 +1,14 @@
 [
   {
+    "slug": "introduction-to-indian-classical-dance",
+    "title": "Introduction to Indian Classical Dance",
+    "description": "Indian classical dance has a rich history with diverse forms like Bharatanatyam, Kathakali, and Odissi.",
+    "tags": [
+      "dance"
+    ],
+    "publishedAt": 1781460949848
+  },
+  {
     "slug": "myself-2",
     "title": "Myself",
     "description": "",
